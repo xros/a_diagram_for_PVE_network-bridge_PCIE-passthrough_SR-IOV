@@ -12,3 +12,8 @@ VMs only use Network Bridge
 I didn't do the ethernet-card-passthrough on any VM other than the OpenWRT VM. In other words, all VMs uses PVE Network Bridge (vmbr0 or vmbr1).
 
 In the past, I did the ethernet-card-passthrough on a NAS VM which works great with physical router and can run at speed of 2.35Gbps full-duplex.
+
+
+version 2 (with groups for better understanding)
+
+![image](502674-20240616225017505-1618827043.png)
